@@ -21,6 +21,7 @@ Tertiary Bright Yellow|100%|#f8f67e
 Tertiary Bright Green|100%|#acc783
 Tertiary Dark Green|100%|#486035
 Tertiary Bright Blue|100%|#58c0ac
+Tertiary Bright Orange|100%|#d24020
 
 
 ![PEC Colors](colors.png)
