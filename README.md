@@ -1,8 +1,15 @@
 # PEC Style Guide
 
-This is to keep track of things like the appropriate colors to use for PEC.
+Style guide for PEC projects.
 
-Here are the current colors:
+## Fonts
+
+[IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans)
+[IBM Plex Serif](https://fonts.google.com/specimen/IBM+Plex+Serif)
+
+
+
+## Colors
 
 **color name**|**gradient**|**hex value**
 :-----:|:-----:|:-----:
